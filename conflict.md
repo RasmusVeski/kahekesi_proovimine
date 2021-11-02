@@ -21,7 +21,8 @@
 <ul>
   <li>Ilma</li>
   <li>Järjestuseta</li>
-  <li>List</li>
+  <li>Muutus</li>
+  Uus muutus
 </ul>
 <ol>
   <li>Koos</li>
